@@ -1,8 +1,8 @@
 {
-    "name": "Blockchain/Blockchain",
+    "name": "Presteus/Blockchain",
     "description": "Blockchain API client library",
     "keywords": ["bitcoin", "blockchain"],
-    "homepage": "https://github.com/blockchain/api-v1-client-php",
+    "homepage": "https://github.com/presteus/api-v1-client-php",
     "license": "MIT",
     "autoload": {
         "psr-4": {
